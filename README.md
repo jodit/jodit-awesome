@@ -61,6 +61,53 @@
   - **Playground:** [JSON Editor Playground](https://pmk65.github.io/jedemov2/dist/demo.html)
   - **NPM:** [json-editor](https://www.npmjs.com/package/json-editor)
 
+### PHPMyFAQ
+
+- **Description:** phpMyFAQ is a mobile-friendly, feature-rich, scalable open source FAQ web app for PHP 8.2+
+- **Repository:** [phpMyFAQ](https://github.com/thorsten/phpMyFAQ)
+- **Website:** [phpMyFAQ](https://www.phpmyfaq.de/)
+
+### Tok
+
+- **Description:** Tock, the open source conversational AI toolkit.
+- **Repository:** [tok](https://github.com/theopenconversationkit/tock)
+- **Website:** [tok](https://doc.tock.ai/en/)
+
+### Dnn.Platform
+
+- **Description:** DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem.
+- **Repository:** [Dnn.Platform](https://github.com/dnnsoftware/Dnn.Platform)
+- **Website:** [Dnn.Platform](https://dnncommunity.org/)
+
+### Builder
+
+- **Description:** Visual Development for React, Vue, Svelte, Qwik, and more
+- **Repository:** [builder](https://github.com/BuilderIO/builder)
+- **Website:** [builder](https://www.builder.io/)
+
+### laravel-splade
+
+- **Description:** The magic of Inertia.js with the simplicity of Blade 💫 - Splade provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, and sparkle it to make it interactive. All without ever leaving Blade.
+- **Repository:** [laravel-splade](https://github.com/protonemedia/laravel-splade)
+- **Website:** [laravel-splade](https://splade.dev/)
+
+### shesha-framework
+
+- **Description:** An open-source Low-Code development framework for .NET developers. Create .NET based business applications with 80% less code.
+- **Repository:** [shesha-framework](https://github.com/shesha-io/shesha-framework)
+- **Website:** [shesha-framework](https://shesha.io/)
+
+### resume-builder
+
+- **Description:** Build a standard and professional single page resume
+- **Repository:** [resume-builder](https://github.com/sadanandpai/resume-builder)
+- **Website:** [resume-builder](https://e-resume.vercel.app/)
+
+### vue-material-admin
+
+- **Description:** A vue material design admin template
+- **Repository:** [vue-material-admin](https://github.com/tookit/vue-material-admin)
+
 ### Jodit Demo
 
 - **Description:** The official demonstration of Jodit Editor's capabilities.
@@ -76,6 +123,7 @@
 - **Official Website:** [Jodit Editor](https://xdsoft.net/jodit/)
 - **Documentation:** [Jodit Docs](https://xdsoft.net/jodit/docs/)
 - **GitHub Repository:** [xdan/jodit](https://github.com/xdan/jodit) 
+- **This page:** [Awesome Jodit](https://xdsoft.net/jodit/docs/jodit-awesome.html)
 
 ## Contributing
 

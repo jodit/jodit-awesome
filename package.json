@@ -1,0 +1,22 @@
+{
+  "name": "jodit-awesome",
+  "version": "1.0.1",
+  "description": "> A curated list of awesome integrations, plugins, and projects using [Jodit Editor](https://github.com/xdan/jodit)",
+  "scripts": {
+    "newversion": "npm version patch --no-git-tag-version && npm run newversiongit",
+    "git": "git add --all  && git commit -m \"New version $npm_package_version. Read more https://github.com/xdan/jodit-awesome/releases/tag/$npm_package_version \" && git tag $npm_package_version",
+    "newversiongit": "npm run git && git push --tags origin HEAD:master",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jodit",
+    "awesome",
+    "integrations",
+    "plugins",
+    "projects"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.50.1"
+  }
+}
