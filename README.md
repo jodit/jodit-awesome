@@ -1,1 +1,64 @@
-# jodit-awesome
+# Awesome Jodit
+
+> A curated list of awesome integrations, plugins, and projects using [Jodit Editor](https://github.com/xdan/jodit)
+
+## Contents
+
+- [Integrations](#integrations)
+- [Plugins](#plugins)
+- [Projects Using Jodit](#projects-using-jodit)
+- [Resources](#resources)
+- [Contributing](#contributing)
+
+## Integrations
+
+### Jodit React
+- **Description:** A React wrapper for the Jodit Editor, making it simple to integrate a powerful WYSIWYG editor into your React applications.
+- **Repository / NPM:** [jodit-react](https://github.com/jodit/jodit-react)
+
+### Ngx-Jodit (Angular)
+- **Description:** An Angular integration for Jodit Editor that allows you to use the editor in Angular projects.
+- **Repository / NPM:** [ngx-jodit](https://www.npmjs.com/package/ngx-jodit)
+
+### Jodit Vue
+- **Description:** A Vue wrapper for the Jodit Editor that lets you easily incorporate the editor into Vue.js applications.
+- **Repository:** [jodit-vue](https://github.com/WendellAdriel/jodit-vue)
+  
+## Plugins
+
+*The ecosystem of plugins for Jodit Editor is continuously growing. Contributions are welcome!*
+
+- **Jodit TributeJS Integration**
+  - **Description:** Integrates TributeJS with Jodit to enable mention functionality (e.g., @username) within the editor.
+  - **Repository / NPM:** [jodit-tributejs](https://github.com/jodit/jodit-tributejs) 
+
+- **File Manager Plugin**
+  - **Description:** A placeholder for a plugin that integrates a file manager with Jodit Editor. Contributions are welcome!
+
+## Projects Using Jodit
+
+- **Jodit Demo**
+  - **Description:** The official demonstration of Jodit Editor's capabilities.
+  - **Link:** [Jodit Demo](https://xdsoft.net/jodit/)
+
+- **Jodit Examples**
+  - **Description:** A repository containing various examples of how to use Jodit Editor.
+  - **Repository:** [jodit-examples](https://github.com/jodit/jodit-examples) 
+
+- **GilianMoa/jodit-editor-react**
+  - **Description:** A simple project demonstrating how to integrate Jodit Editor in a React app, including image uploads and code block insertion.
+  - **Repository:** [jodit-editor-react](https://github.com/GilianMoa/jodit-editor-react)
+
+## Resources
+
+- **Official Website:** [Jodit Editor](https://xdsoft.net/jodit/)
+- **Documentation:** [Jodit Docs](https://xdsoft.net/jodit/docs/)
+- **GitHub Repository:** [jodit/jodit](https://github.com/xdan/jodit) 
+
+## Contributing
+
+We welcome contributions to this list! If you know of additional integrations, plugins, or projects using Jodit Editor, please open a pull request or submit an issue.
+
+---
+
+*Made with ❤️ for the Jodit community!*
