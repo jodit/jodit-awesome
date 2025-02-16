@@ -48,6 +48,13 @@
 
 ## Projects Using Jodit
 
+- **JSON Editor**
+  - **Description:** A JSON editor built with Jodit Editor that allows you to edit JSON data in a user-friendly way.
+  - **Repository:** [json-editor](https://github.com/json-editor/json-editor)
+  - **Demo:** [JSON Editor Demo](https://json-editor.github.io/json-editor/)
+  - **Playground:** [JSON Editor Playground](https://pmk65.github.io/jedemov2/dist/demo.html)
+  - **NPM:** [json-editor](https://www.npmjs.com/package/json-editor)
+
 - **Jodit Demo**
   - **Description:** The official demonstration of Jodit Editor's capabilities.
   - **Link:** [Jodit Demo](https://xdsoft.net/jodit/)
