@@ -14,14 +14,22 @@
 
 ### Jodit React
 - **Description:** A React wrapper for the Jodit Editor, making it simple to integrate a powerful WYSIWYG editor into your React applications.
-- **Repository / NPM:** [jodit-react](https://github.com/jodit/jodit-react)
+- **NPM:** [jodit-react](https://www.npmjs.com/package/jodit-react)
+- **Repository:** [jodit-react](https://github.com/jodit/jodit-react)
+
+### Jodit Angular
+- **Description:** An Angular integration for Jodit Editor that allows you to use the editor in Angular projects.
+- **NPM:** [jodit-angular](https://www.npmjs.com/package/jodit-angular)
+- **Repository:** [jodit-angular](https://github.com/jodit/jodit-angular/)
 
 ### Ngx-Jodit (Angular)
 - **Description:** An Angular integration for Jodit Editor that allows you to use the editor in Angular projects.
-- **Repository / NPM:** [ngx-jodit](https://www.npmjs.com/package/ngx-jodit)
+- **NPM:** [ngx-jodit](https://www.npmjs.com/package/ngx-jodit)
+- **Repository:** [ngx-jodit](https://github.com/julianpoemp/ngx-jodit)
 
 ### Jodit Vue
 - **Description:** A Vue wrapper for the Jodit Editor that lets you easily incorporate the editor into Vue.js applications.
+- **NPM:** [jodit-vue](https://www.npmjs.com/package/jodit-vue)
 - **Repository:** [jodit-vue](https://github.com/WendellAdriel/jodit-vue)
   
 ## Plugins
@@ -30,10 +38,13 @@
 
 - **Jodit TributeJS Integration**
   - **Description:** Integrates TributeJS with Jodit to enable mention functionality (e.g., @username) within the editor.
-  - **Repository / NPM:** [jodit-tributejs](https://github.com/jodit/jodit-tributejs) 
+  - **Repository / NPM:** [jodit-tributejs](https://github.com/jodit/jodit-tributejs)
+  
+## Backends
 
-- **File Manager Plugin**
-  - **Description:** A placeholder for a plugin that integrates a file manager with Jodit Editor. Contributions are welcome!
+- **Jodit PHP Connector**
+  - **Description:** A PHP connector for Jodit Editor that allows you to easily integrate the editor with PHP-based applications.
+  - **Repository:** [jodit-connectors](https://github.com/xdan/jodit-connectors)
 
 ## Projects Using Jodit
 
@@ -53,7 +64,7 @@
 
 - **Official Website:** [Jodit Editor](https://xdsoft.net/jodit/)
 - **Documentation:** [Jodit Docs](https://xdsoft.net/jodit/docs/)
-- **GitHub Repository:** [jodit/jodit](https://github.com/xdan/jodit) 
+- **GitHub Repository:** [xdan/jodit](https://github.com/xdan/jodit) 
 
 ## Contributing
 
