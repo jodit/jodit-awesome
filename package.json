@@ -1,6 +1,6 @@
 {
   "name": "jodit-awesome",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "> A curated list of awesome integrations, plugins, and projects using [Jodit Editor](https://github.com/xdan/jodit)",
   "scripts": {
     "newversion": "npm version patch --no-git-tag-version && npm run newversiongit",
