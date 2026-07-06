@@ -35,7 +35,13 @@
 - **Description:** A Vue wrapper for the Jodit Editor that lets you easily incorporate the editor into Vue.js applications.
 - **NPM:** [jodit-vue](https://www.npmjs.com/package/jodit-vue)
 - **Repository:** [jodit-vue](https://github.com/WendellAdriel/jodit-vue)
-  
+
+### Laravel Jodit
+
+- **Description:** A Laravel integration for Jodit Editor as a Blade View Component. Works with Blade files, Blade components, and Livewire, and includes the file manager.
+- **Packagist:** [nasirkhan/laravel-jodit](https://packagist.org/packages/nasirkhan/laravel-jodit)
+- **Repository:** [laravel-jodit](https://github.com/nasirkhan/laravel-jodit)
+
 ## Plugins
 
 *The ecosystem of plugins for Jodit Editor is continuously growing. Contributions are welcome!*
