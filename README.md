@@ -6,6 +6,8 @@
 
 - [Integrations](#integrations)
 - [Plugins](#plugins)
+- [Backends](#backends)
+- [Themes](#themes)
 - [Projects Using Jodit](#projects-using-jodit)
 - [Resources](#resources)
 - [Contributing](#contributing)
@@ -53,10 +55,34 @@
   
 ## Backends
 
-### Jodit PHP Connector**
+### Jodit PHP Connector
 
 - **Description:** A PHP connector for Jodit Editor that allows you to easily integrate the editor with PHP-based applications.
 - **Repository:** [jodit-connectors](https://github.com/xdan/jodit-connectors)
+
+### Jodit Node.js Connector
+
+- **Description:** TypeScript file browser and uploader backend for Jodit on Express: local files or S3-compatible buckets, access control, multi-tenant sources, Docker image.
+- **NPM:** [jodit-nodejs](https://www.npmjs.com/package/jodit-nodejs)
+- **Repository:** [jodit-nodejs](https://github.com/jodit/jodit-nodejs)
+- **Guide:** [Jodit Connector Node.js](https://xdsoft.net/jodit/examples/integration/jodit-nodejs.html)
+
+### Jodit Python Connector
+
+- **Description:** Python/FastAPI implementation of the Jodit file browser and uploader connector by Timur Seyidov: local, S3-compatible, Azure Blob, GCS, FTP, SFTP and WebDAV storage, role-based access rules, thumbnails, PDF and DOCX export, Docker image.
+- **PyPI:** [jodit-python](https://pypi.org/project/jodit-python/)
+- **Repository:** [jodit-python](https://github.com/TimurSeyidov/jodit-python)
+- **Documentation:** [timurseyidov.github.io/jodit-python](https://timurseyidov.github.io/jodit-python/)
+- **Guide:** [Jodit Connector Python](https://xdsoft.net/jodit/examples/integration/jodit-python.html)
+
+## Themes
+
+### Jodit UI Themes
+
+- **Description:** Ten ready-made CSS themes for the Jodit editor, the free file browser and the Jodit PRO Finder by Timur Seyidov: Office 2010, Windows 10 and 11, macOS, Material 3, Nord, Dracula, Catppuccin, Syncfusion and Moono. One stylesheet from a CDN plus `theme: '<name>'`; LESS sources included for building your own.
+- **NPM:** [jodit-ui-themes](https://www.npmjs.com/package/jodit-ui-themes)
+- **Repository:** [jodit-ui-themes](https://github.com/TimurSeyidov/jodit-ui-themes)
+- **Live demo and gallery:** [UI Themes for Jodit](https://xdsoft.net/jodit/examples/theme/ui-themes.html)
 
 ## Projects Using Jodit
 
