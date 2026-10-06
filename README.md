@@ -52,6 +52,13 @@
 
 - **Description:** Integrates TributeJS with Jodit to enable mention functionality (e.g., @username) within the editor.
 - **Repository / NPM:** [jodit-tributejs](https://github.com/jodit/jodit-tributejs)
+
+### Jodit Image Editor
+
+- **Description:** Vanilla, framework-free image editor: crop, resize, rotate, flip, filters, finetune and text annotations, with a `view = f(state)` architecture. Powers the Image Editor PRO plugin and works on its own in any page.
+- **NPM:** [@jodit/image-editor](https://www.npmjs.com/package/@jodit/image-editor)
+- **Repository:** [jodit-image-editor](https://github.com/jodit/jodit-image-editor)
+- **Landing and docs:** [Jodit Image Editor](https://xdsoft.net/jodit/image-editor/)
   
 ## Backends
 
