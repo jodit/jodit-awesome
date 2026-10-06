@@ -89,6 +89,7 @@
 - **Description:** Ten ready-made CSS themes for the Jodit editor, the free file browser and the Jodit PRO Finder by Timur Seyidov: Office 2010, Windows 10 and 11, macOS, Material 3, Nord, Dracula, Catppuccin, Syncfusion and Moono. One stylesheet from a CDN plus `theme: '<name>'`; LESS sources included for building your own.
 - **NPM:** [jodit-ui-themes](https://www.npmjs.com/package/jodit-ui-themes)
 - **Repository:** [jodit-ui-themes](https://github.com/TimurSeyidov/jodit-ui-themes)
+- **Demo:** [timurseyidov.github.io/jodit-ui-themes](https://timurseyidov.github.io/jodit-ui-themes/)
 - **Live demo and gallery:** [UI Themes for Jodit](https://xdsoft.net/jodit/examples/theme/ui-themes.html)
 
 ## Projects Using Jodit
